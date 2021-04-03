@@ -1,0 +1,2 @@
+# theme
+hexo-theme-style
